@@ -1,3 +1,11 @@
+# Attention
+
+code d'exemples et exercices effectués sur linux en x86_64
+
+# Requirements (linux)
+
+`nasm`
+
 # Mes notes :
 
 ## Registres
