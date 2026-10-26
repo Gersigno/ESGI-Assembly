@@ -1,4 +1,4 @@
-section .data
+section .data           ;Buffer (zone vide dans la memoire pour stoquer les valeurs des variables)
     letter db 'A'       ;stoque "A" dans une variable "letter"
 
 section .text
